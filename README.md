@@ -1,7 +1,5 @@
 # 모던 자바스크립트 Deep Dive
 
-![title](title.jpg)
-
 - 챌린지 참여(2021-05-10 ~ 2021-08-01)
 - 챌린지 내용 : `모던 자바스크립트 Deep Dive`를 바탕으로 정리
 - 챌린저스 URL : [바로가기](https://chlngers.onelink.me/Ju7U/31a95cd)
